@@ -1,0 +1,84 @@
+00:00:17.750,00:00:20.750
+Renan Ribeiro Machado: Bom dia
+
+00:00:23.211,00:00:26.211
+Vinicius Saldani Pieroni: No LEIA posso escrever texto também? Como se fosse uma instrução pro usuario?
+
+00:02:20.494,00:02:23.494
+Vinicius Saldani Pieroni: perfeito
+
+00:04:33.378,00:04:36.378
+Renan Ribeiro Machado: Beleza, muito obrigado
+
+00:15:44.622,00:15:47.622
+Giovanna Herculano Tormena: acho q nao prof
+
+00:15:46.988,00:15:49.988
+Vinicius Saldani Pieroni: mais uma
+
+00:15:55.414,00:15:58.414
+Vinicius Saldani Pieroni: se não tiver duvidas, precisa vir na aula?
+
+00:15:59.187,00:16:02.187
+Vinicius Saldani Pieroni: semanamente
+
+00:16:03.322,00:16:06.322
+Vinicius Saldani Pieroni: semanalmente
+
+00:16:45.518,00:16:48.518
+Vinicius Saldani Pieroni: fechou
+
+00:17:44.313,00:17:47.313
+Saulo Bruno do Amaral: Quando vamos usar uma IDE?
+
+00:18:25.030,00:18:28.030
+Denis Fernando Wolf: Code Blocks
+
+00:19:04.359,00:19:07.359
+Gabriel Calori Badini: ta tramquilo
+
+00:19:07.188,00:19:10.188
+Saulo Bruno do Amaral: Alternativa para usuario linux?
+
+00:19:09.188,00:19:12.188
+Guilherme Crovador: tranquilo
+
+00:19:12.722,00:19:15.722
+Eduardo Morelli Fares: acho que não, está tranquilo
+
+00:19:23.985,00:19:26.985
+Amanda Hikari Silva Tanaka: atom
+
+00:19:38.020,00:19:41.020
+Saulo Bruno do Amaral: blz
+
+00:19:43.627,00:19:46.627
+Tony Jun Tanaka: Posso usar o dev C++?
+
+00:19:48.218,00:19:51.218
+Gabriel Calori Badini: prof a aula vc pretende postar quando?
+
+00:19:59.906,00:20:02.906
+Gabriel Calori Badini: beleza
+
+00:20:09.810,00:20:12.810
+Joao Vitor de Oliveira: beleza
+
+00:20:14.926,00:20:17.926
+Giovanna Herculano Tormena: beleza professor
+
+00:21:02.369,00:21:05.369
+Juan Thomas de Lima Bueno: Netbeans pode tambem?
+
+00:21:51.421,00:21:54.421
+Marcus Vinicius Costa Reis: notepad++ funciona tbm?
+
+00:21:54.866,00:21:57.866
+Juan Thomas de Lima Bueno: Blz, vle
+
+00:22:01.431,00:22:04.431
+Juan Thomas de Lima Bueno: vlw*
+
+00:22:44.480,00:22:47.480
+Giovanna Herculano Tormena: beleza professor, obrigada
+
